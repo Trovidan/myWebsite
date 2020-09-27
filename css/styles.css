@@ -91,8 +91,13 @@ a:hover{
 }
 .top{
   height: 50vw;
+  background-image: url(../images/backround.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
   background-color: #EAF6F6;
   position: relative;
+
 }
 .top-cloud {
   position :absolute;
